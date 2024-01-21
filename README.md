@@ -11,4 +11,10 @@ I am Max, Software Engineer from 🇷🇺.
 - Neat lists
 - Linux
 
-[![Leetcode stats](https://github.com/nedmv/leetcode-badge/raw/github-actions/badge.png)](https://leetcode.com/nedmv)
+<a href="https://leetcode.com/nedmv">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nedmv/leetcode-badge/github-actions/badge-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nedmv/leetcode-badge/github-actions/badge-light.png">
+<img alt="Badge example." src="https://raw.githubusercontent.com/nedmv/leetcode-badge/github-actions/badge.png">
+</picture>
+</a>
